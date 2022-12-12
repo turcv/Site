@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://img.freepik.com/premium-photo/cloudy-blue-sky-background-midday_627444-79.jpg?w=1060");
+}
+body th, td {
+    border-style: groove;
+}
+
+table {
+    margin-top: 20px ;
+    margin-left: auto;
+    margin-right: auto;
+}
